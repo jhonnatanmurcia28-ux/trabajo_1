@@ -1,0 +1,9 @@
+Aprendiz: Jhonntan David Murcia Suarez
+Ficha: 3549894
+Enlace del QR: const URL_PAGINA = "https://jhonnatanmurcia28-ux.github.io/trabajo_1/";
+Fecha: 13/11/2026, 11:45:34
+
+index.html: 23/23 líneas (completo)
+estilos.css: 17/17 líneas (completo)
+app.js: 18/18 líneas (completo)
+publicar.txt: 6/6 líneas (completo)
